@@ -3,7 +3,7 @@ body {
     font-size: 8px;
     max-width: 960px;
     margin: auto;
-    background-color: #E2F3F9;
+    background-color:#faf0e6;
 }
 
 h1 {
@@ -53,7 +53,7 @@ h1, h2 {
 }
 #mainLeft {
     border-right: 1px solid #212834;
-    background-color: #438797;
+    background-color:#bc987e;
    
 
 }
