@@ -52,13 +52,14 @@ h1, h2 {
     margin-bottom: 0;
 }
 #mainLeft {
-    border-right: 1px solid #212834;
+   
     background-color:#bc987e;
    
 
 }
 p {
      color: azure;
+     text-align: justify;
 }
 img{
     float:right 
@@ -79,4 +80,6 @@ footer{
     word-spacing: 5px;
 }
 
-    
+ul{
+    text-align: justify;
+}    
